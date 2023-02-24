@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45fbd099-8c03-4dfc-a7b5-7b2751e3bf0a" name="Changes" comment="task1.py" />
+    <list default="true" id="45fbd099-8c03-4dfc-a7b5-7b2751e3bf0a" name="Changes" comment="Merge remote-tracking branch 'origin/Lesson' into Lesson" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,11 +26,11 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson1" />
+        <entry key="$PROJECT_DIR$" value="Lesson" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -63,8 +63,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Админ/PycharmProjects/Seminar_python",
+    "last_opened_file_path": "C:/Users/Админ/PycharmProjects/pythonProject1/GB_homework2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "two.files.diff.last.used.file": "C:/Users/Админ/PycharmProjects/pythonProject1/GB_homework1/task1.py"
   },
@@ -331,7 +330,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677268175222</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Lesson1">
+      <created>1677268693187</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1677268693187</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Merge remote-tracking branch 'origin/Lesson' into Lesson">
+      <created>1677310795283</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1677310795283</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,7 +380,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Lesson" />
+                        <option value="Lesson2" />
                       </list>
                     </value>
                   </entry>
@@ -416,6 +429,8 @@
     <MESSAGE value="task-44.py" />
     <MESSAGE value="task2.py" />
     <MESSAGE value="task1.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="task1.py" />
+    <MESSAGE value="Lesson1" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/Lesson' into Lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/Lesson' into Lesson" />
   </component>
 </project>
