@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45fbd099-8c03-4dfc-a7b5-7b2751e3bf0a" name="Changes" comment="Merge remote-tracking branch 'origin/Lesson' into Lesson" />
+    <list default="true" id="45fbd099-8c03-4dfc-a7b5-7b2751e3bf0a" name="Changes" comment="Merge remote-tracking branch 'origin/Lesson' into Lesson">
+      <change afterPath="$PROJECT_DIR$/HW3/hw2t16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/hw2t18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/hw3t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/hw3t2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/hw3t20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW3/hw3t3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_02_2023_3_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_02_2023_3_02__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +22,13 @@
   <component name="ChangesViewManager">
     <option name="groupingKeys">
       <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
     </option>
   </component>
   <component name="Git.Pull.Settings">
@@ -26,7 +42,7 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson" />
+        <entry key="$PROJECT_DIR$" value="Lesson2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +79,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Админ/PycharmProjects/pythonProject1/GB_homework2",
+    "last_opened_file_path": "C:/Users/Админ/PycharmProjects/pythonProject",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "two.files.diff.last.used.file": "C:/Users/Админ/PycharmProjects/pythonProject1/GB_homework1/task1.py"
   },
@@ -78,31 +94,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Админ\PycharmProjects\pythonProject1\GB_homework2" />
       <recent name="C:\Users\Админ\PycharmProjects\pythonProject1\GB_homework1" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="task4" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GB_homework1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GB_homework1/task4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -344,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677310795283</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Merge remote-tracking branch 'origin/Lesson' into Lesson">
+      <created>1677337418787</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1677337418787</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -380,7 +381,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Lesson2" />
+                        <option value="hw2" />
                       </list>
                     </value>
                   </entry>
