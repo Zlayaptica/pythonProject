@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45fbd099-8c03-4dfc-a7b5-7b2751e3bf0a" name="Changes" comment="Merge remote-tracking branch 'origin/Lesson' into Lesson">
-      <change afterPath="$PROJECT_DIR$/homework4/hw4task22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework4/hw4task24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_02_2023_3_02_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_02_2023_3_02__Changes_.xml" beforeDir="false" />
+    <list default="true" id="45fbd099-8c03-4dfc-a7b5-7b2751e3bf0a" name="Changes" comment="Merge branch 'master' of https://github.com/Zlayaptica/pythonProject1 into h3omework">
+      <change afterPath="$PROJECT_DIR$/H5/h5task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/h5task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/h5task26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/h5task28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/h5task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/h5task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/h5task5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +35,7 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="h3omework" />
+        <entry key="$PROJECT_DIR$" value="h4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,6 +61,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2MAhRm8fv82yOILogEEaWYCCIpA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -343,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677345079721</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Merge branch 'master' of https://github.com/Zlayaptica/pythonProject1 into h3omework">
+      <created>1677951369972</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1677951369972</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,7 +391,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="h4" />
+                        <option value="h5" />
                       </list>
                     </value>
                   </entry>
@@ -430,6 +442,7 @@
     <MESSAGE value="task1.py" />
     <MESSAGE value="Lesson1" />
     <MESSAGE value="Merge remote-tracking branch 'origin/Lesson' into Lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/Lesson' into Lesson" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/Zlayaptica/pythonProject1 into h3omework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/Zlayaptica/pythonProject1 into h3omework" />
   </component>
 </project>
