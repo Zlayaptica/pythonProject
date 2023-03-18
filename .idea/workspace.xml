@@ -5,6 +5,12 @@
   </component>
 h5
   <component name="ChangeListManager">
+h7
+    <list default="true" id="45fbd099-8c03-4dfc-a7b5-7b2751e3bf0a" name="Changes" comment="Merge branch">
+      <change afterPath="$PROJECT_DIR$/HW7/h7task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/h7task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7/h7task3.py" afterDir="false" />
+
 h6
 master
     <list default="true" id="45fbd099-8c03-4dfc-a7b5-7b2751e3bf0a" name="Changes" comment="Merge branch 'master' of https://github.com/Zlayaptica/pythonProject1 into h3omework">
@@ -40,6 +46,7 @@ h4
 master
 master
 master
+master
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +79,9 @@ master
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+h7
+        <entry key="$PROJECT_DIR$" value="h6" />
+
 h5
         <entry key="$PROJECT_DIR$" value="h4" />
 h6
@@ -81,6 +91,7 @@ h4
         <entry key="$PROJECT_DIR$" value="h3omework" />
 
         <entry key="$PROJECT_DIR$" value="Lesson2" />
+master
 master
 master
 master
@@ -423,11 +434,29 @@ master
       <option name="project" value="LOCAL" />
       <updated>1677951369972</updated>
     </task>
+h7
+    <task id="LOCAL-00037" summary="Merge branch">
+      <created>1678467091866</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1678467091866</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Merge branch">
+      <created>1678470579068</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1678470579068</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+
     <option name="localTasksCounter" value="37" />
 h5
     <option name="localTasksCounter" value="36" />
 
     <option name="localTasksCounter" value="35" />
+master
 master
 master
 master
@@ -466,6 +495,9 @@ master
                   <entry key="branch">
                     <value>
                       <list>
+h7
+                        <option value="h7" />
+
 h5
                         <option value="h5" />
 h6
@@ -477,6 +509,7 @@ h4
 hw3
                         <option value="hw2" />
                         <option value="origin/Lesson2" />
+master
 master
 master
 master
@@ -532,6 +565,7 @@ master
     <MESSAGE value="Lesson1" />
     <MESSAGE value="Merge remote-tracking branch 'origin/Lesson' into Lesson" />
     <MESSAGE value="Merge branch 'master' of https://github.com/Zlayaptica/pythonProject1 into h3omework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/Zlayaptica/pythonProject1 into h3omework" />
+    <MESSAGE value="Merge branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch" />
   </component>
 </project>
