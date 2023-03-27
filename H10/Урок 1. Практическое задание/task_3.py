@@ -13,7 +13,7 @@ dict_words = ['attribute', 'класс', 'функция', 'type']
 dict_words_exit = []
 for word in dict_words:
     try:
-        dict_words_exit.append(bytes(word,'ascii'))
+        dict_words_exit.append(bytes(word, 'ascii'))
     except Exception:
         print(f"Слово '{word}' невозможно записать в байтовом типе с  помощью маркировки b!")
     else:

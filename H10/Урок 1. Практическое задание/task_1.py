@@ -42,4 +42,3 @@ for line in words:
     print(f'длина строки - {len(encod)}    ')
     print(f'содержание переменной - {encod}')
     print('-' * 50)
-

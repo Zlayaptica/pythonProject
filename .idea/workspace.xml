@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45fbd099-8c03-4dfc-a7b5-7b2751e3bf0a" name="Changes" comment="Merge branch">
-      <change afterPath="$PROJECT_DIR$/HW7/h7task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW7/h7task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW7/h7task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +29,7 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="h6" />
+        <entry key="$PROJECT_DIR$" value="h9" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,10 +67,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Админ/PycharmProjects/pythonProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Админ/PycharmProjects/pythonProject1/H10&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/Админ/PycharmProjects/pythonProject1/GB_homework1/task1.py&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -86,6 +86,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Админ\PycharmProjects\pythonProject1\H10" />
+      <recent name="C:\Users\Админ\PycharmProjects\pythonProject1\H8\Урок 2. Практическое задание\Урок 2. Практическое задание\task_2" />
+      <recent name="C:\Users\Админ\PycharmProjects\pythonProject1\H8" />
       <recent name="C:\Users\Админ\PycharmProjects\pythonProject1\GB_homework2" />
       <recent name="C:\Users\Админ\PycharmProjects\pythonProject1\GB_homework1" />
     </key>
@@ -365,7 +368,42 @@
       <option name="project" value="LOCAL" />
       <updated>1678470579068</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Merge branch">
+      <created>1678558986824</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1678558986824</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Merge branch">
+      <created>1679161069687</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1679161069687</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Merge branch">
+      <created>1679587764286</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1679587764286</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Merge branch">
+      <created>1679846650767</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1679846650767</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Merge branch">
+      <created>1679924747722</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1679924747722</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +439,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="h7" />
+                        <option value="h10" />
                       </list>
                     </value>
                   </entry>
@@ -455,5 +493,16 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/Zlayaptica/pythonProject1 into h3omework" />
     <MESSAGE value="Merge branch" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
